@@ -13,4 +13,3 @@ class ping(commands.Cog):
 
 def setup(bot):
     bot.add_cog(ping(bot))
-    
